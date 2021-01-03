@@ -1,6 +1,7 @@
 import 'package:flutter/material.dart';
 import 'package:flutter_burc_rehberi/burc_detail.dart';
 import 'package:flutter_burc_rehberi/burc_lists.dart';
+//import 'package:flutter_burc_rehberi/testlib.dart';
 
 void main() => runApp(MyApp());
 
@@ -14,6 +15,7 @@ class MyApp extends StatelessWidget{
         primarySwatch: Colors.pink
       ),
       debugShowCheckedModeBanner: false,
+
 
       routes: {
         '/' : (context) => BurcLists(),
