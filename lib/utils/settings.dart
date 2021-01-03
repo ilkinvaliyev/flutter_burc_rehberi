@@ -1,5 +1,5 @@
 class Strings {
-  static const String APP_NAME = "Burç Rehberi";
+  static const String APP_NAME = "Bürclər";
 
   static const List<String> BURC_ADLARI = [
     "Koc",
@@ -13,7 +13,7 @@ class Strings {
     "Yay",
     "Oglak",
     "Kova",
-    "Balik"
+    "Balik",
   ];
 
   static const List<String> BURC_TARIHLERI = [
